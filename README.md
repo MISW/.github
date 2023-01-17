@@ -1,3 +1,3 @@
 # .github
 
-- Community Health Files and Public Profile Files for the @MISW organization.
+- Community Health Files and Public Profile Files for the [MISW](https://misw.jp/) organization.
