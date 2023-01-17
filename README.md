@@ -1,3 +1,3 @@
 # .github
 
-Community Health File for non-MIS.W Members.
+- Community Health Files and Public Profile Files for the @MISW organization.
